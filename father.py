@@ -5,7 +5,7 @@ from time import sleep
 o = ("xaBdBoT")
 tokenbot = "6555481969:AAEbGyGj9__ddTn9Y5pkXfhwPPTokUgTi94" #توكن البوت الي يوصلك عليه الصيد
 dragon = "6376489778" #ايديك
-app =  TelegramClient("SwapBot",api_id=,15145595api_hash="c3f60ecf742e136436acc9082ac8d9a4")
+app =  TelegramClient("SwapBot",api_id=15145595,api_hash="c3f60ecf742e136436acc9082ac8d9a4")
 app.start()
 qq = 0
 numche = 1
